@@ -1,7 +1,37 @@
-*{
+* {
 	box-sizing: border-box;
 }
 
-body{
-	background: black;
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	font-size:26px;
+	padding:15px;
+	border:solid red;
 }
+
+.nav-toggle {
+	cursor:pointer;
+}
+
+
+.nav-list{
+	list-style: none;
+	margin:0;
+	border: solid orange;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	font-size:20px;
+}
+
+.nav-list a{
+	text-decoration: none;
+}
+
+.navbar-collapsed {
+	display:none;
+
+}
+
+
