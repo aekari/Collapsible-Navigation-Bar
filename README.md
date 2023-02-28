@@ -3,5 +3,6 @@
 This is a portfolio that links to various projects I have created.
 
 ## Features
--A collapsible navbar
+- a collapsible navbar
+
 ![](https://i.imgur.com/LZwQOma.gif)
