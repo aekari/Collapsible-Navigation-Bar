@@ -1,8 +1,5 @@
-# My Portfolio Website
+# collapsible Navigation Bar
 
-This is a portfolio that links to various projects I have created.
-
-## Features
-- a collapsible navbar
+This project features a collapsible nav bar
 
 ![](https://i.imgur.com/bXADP2e.gif)
